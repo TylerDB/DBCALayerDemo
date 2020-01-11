@@ -14,6 +14,7 @@
 		39196B2523C99AEF00A5F25B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39196B2423C99AEF00A5F25B /* Assets.xcassets */; };
 		39196B2823C99AEF00A5F25B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39196B2623C99AEF00A5F25B /* LaunchScreen.storyboard */; };
 		39196B2B23C99AEF00A5F25B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 39196B2A23C99AEF00A5F25B /* main.m */; };
+		39196B3223C99C0800A5F25B /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 39196B3123C99C0800A5F25B /* ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		39196B2723C99AEF00A5F25B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		39196B2923C99AEF00A5F25B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		39196B2A23C99AEF00A5F25B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		39196B3123C99C0800A5F25B /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				39196B1E23C99AEC00A5F25B /* ViewController.h */,
 				39196B1F23C99AEC00A5F25B /* ViewController.m */,
 				39196B2123C99AEC00A5F25B /* Main.storyboard */,
+				39196B3123C99C0800A5F25B /* ViewController.xib */,
 				39196B2423C99AEF00A5F25B /* Assets.xcassets */,
 				39196B2623C99AEF00A5F25B /* LaunchScreen.storyboard */,
 				39196B2923C99AEF00A5F25B /* Info.plist */,
@@ -135,6 +138,7 @@
 			files = (
 				39196B2823C99AEF00A5F25B /* LaunchScreen.storyboard in Resources */,
 				39196B2523C99AEF00A5F25B /* Assets.xcassets in Resources */,
+				39196B3223C99C0800A5F25B /* ViewController.xib in Resources */,
 				39196B2323C99AEC00A5F25B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
